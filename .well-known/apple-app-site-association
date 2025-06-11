@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "C2T2Z8WQM5.com.qic.sensedev",
+                "paths": [
+                    "NOT /user/logout",
+                    "/user/*",
+                    "/node/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "C2T2Z8WQM5.com.qic.sensedev"
+        ]
+    }
+} 
